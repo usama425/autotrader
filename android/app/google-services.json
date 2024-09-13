@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "37878297891",
+    "project_id": "autotrader-a2613",
+    "storage_bucket": "autotrader-a2613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37878297891:android:645bc401a6a41a1f230896",
+        "android_client_info": {
+          "package_name": "com.autotrader.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37878297891-spvhvok5t2v0ti03kgep9tll4sg0p0eb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.autotrader.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "37878297891-qhf1b0b2umeq93bqf5snu975qif28a2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjCUd4kw8zhsin3IW0UMO8FkJ2fBu0DYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37878297891-qhf1b0b2umeq93bqf5snu975qif28a2i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37878297891-a55q5h37mv99bh1cgl52b57dum1tvalp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.autotrader.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
